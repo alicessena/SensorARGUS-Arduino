@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="ARGUS Logo"/>
+<img src="./assets/logo.png" alt="ARGUS Logo" width="100"/>
 
 # ARGUS - Alerta de Risco para Garantia Unificada da Segurança
 
