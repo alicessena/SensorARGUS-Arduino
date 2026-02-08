@@ -4,7 +4,7 @@
 
 # ARGUS - Alerta de Risco para Garantia Unificada da Segurança
 
-<img src="./assets/banner.png" alt="Argus Panoptes - Guardião de Cem Olhos" style="max-width: 200px; height: auto; margin-top: 20px;">
+<img src="./assets/banner.png" alt="Argus Panoptes - Guardião de Cem Olhos" style="width: 200px;">
 
 </div>
 
